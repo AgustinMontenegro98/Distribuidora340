@@ -1,0 +1,17 @@
+.icon-hover:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover:hover i {
+  color: #3b71ca !important;
+}
+
+.bg-violet {
+  background-color: rgb(155, 49, 253) !important;
+}
+
+.btn-violet {
+  background-color: rgb(155, 49, 253) !important ;
+  color: black;
+}
